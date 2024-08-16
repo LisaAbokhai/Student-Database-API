@@ -1,0 +1,3 @@
+CREATE DATABASE IF NOT EXISTS students;
+
+USE students;
