@@ -1,5 +1,9 @@
 HELP.md
-target/
+target/classes
+target/maven-archiver
+target/test-classes
+target/maven-status
+target/surefire-reports
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
